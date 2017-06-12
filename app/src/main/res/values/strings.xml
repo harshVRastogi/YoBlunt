@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YoBlunt</string>
+    <string name="err_video_play">Error playing video. Try again.</string>
+</resources>
